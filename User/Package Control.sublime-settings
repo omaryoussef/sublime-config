@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"ayu",
+		"BracketHighlighter",
+		"CFG Configuration Syntax Highlighting",
+		"Civic Color Scheme",
+		"ColorHelper",
+		"DocBlockr",
+		"EML (E-Mail)",
+		"GitGutter",
+		"HTML Boilerplate",
+		"HTML5",
+		"jQuery",
+		"Laravel 4 Facades",
+		"Laravel Blade Highlighter",
+		"LaTeX Snippets",
+		"LaTeXTools",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"ProjectManager",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Theme - Spacegray",
+		"Trimmer"
+	]
+}
